@@ -1,0 +1,38 @@
+
+
+*{background-color: #EEF5FF }
+
+.profile{position:static;
+    }
+
+#main_resume{border:5px solid black;
+    padding:45px}
+
+#resume_header {text-align:left;
+    text-transform:uppercase;}
+
+
+#title_box {border:2px solid black;
+    padding-top:0px;
+    }
+
+.profile_links{padding-right:15px;
+    padding-bottom:30px;}
+
+
+#objective_description {text-align:justify;}    
+
+.sub_title{background-color: #B4D4FF ;
+border: 1.5px solid black}
+
+.rating{border:0.5px solid black;
+    padding-right:0px}
+
+
+
+
+
+
+
+
+
